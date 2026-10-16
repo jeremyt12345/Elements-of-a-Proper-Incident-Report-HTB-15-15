@@ -3,3 +3,6 @@ Notes to help me with the CDSA Exam
 
 
 <img width="834" height="542" alt="image" src="https://github.com/user-attachments/assets/3529e3b9-e3a2-4df1-bbfc-7907ed6ab2bb" />
+
+
+<img width="853" height="704" alt="image" src="https://github.com/user-attachments/assets/c245640b-3098-459a-be48-640ae4b8aac5" />
