@@ -6,3 +6,8 @@ Notes to help me with the CDSA Exam
 
 
 <img width="853" height="704" alt="image" src="https://github.com/user-attachments/assets/c245640b-3098-459a-be48-640ae4b8aac5" />
+
+
+Note to self to view this note when writing the report:
+https://academy.hackthebox.com/app/module/238/section/2581
+
