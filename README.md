@@ -11,3 +11,4 @@ Notes to help me with the CDSA Exam
 Note to self to view this note when writing the report:
 https://academy.hackthebox.com/app/module/238/section/2581
 
+https://academy.hackthebox.com/app/module/238/section/2584
